@@ -43,7 +43,7 @@
 /*background image*/ /*(replace the link to use)*/
   --background-image:var(--wallpaper);
 /*bg dev suggestions*/
-  --wallpaper: url('https://wallpaperaccess.com/full/2799204.jpg');
+  --wallpaper: url('https://i.pinimg.com/originals/46/16/65/4616654ed64559c7f53de1f038562e56.png');
 /*modern background selection*/
   --modern-dark-bg: url('https://cdn.discordapp.com/attachments/879158025087234098/1015856640530071572/97EAEB95-54C2-4AF3-B70B-5E94A851409.jpeg?size=4096');
   --modern-light-bg: url('https://cdn.discordapp.com/attachments/879158025087234098/1015856640760754216/E98F8123-8B98-4961-90D7-DCC497A26E4.jpeg?size=4096');
@@ -83,20 +83,20 @@
   --rs-medium-width: 3.5px; 
   --rs-large-width: 4.5px; 
   --rs-avatar-shape:50%;
-  --rs-online-color:#1df594;
-  --rs-idle-color:#faa61a;
-  --rs-dnd-color:#f04747;
-  --rs-offline-color:#636b75;
-  --rs-streaming-color:#643da7;
+  --rs-online-color:#9bd0b7;
+  --rs-idle-color:#f8df81;
+  --rs-dnd-color:#ff968a;
+  --rs-offline-color:#D3D3D3;
+  --rs-streaming-color:#d5b6d5;
   --rs-invisible-color:#636b75;
   --rs-phone-visible:block;
   --rs-phone-color:var(--rs-online-color);
 
 
 /*chillax colours rgb*/ /* Google RGB Picker: https://g.co/kgs/NoY83h */
-  --accentcolor:	  251, 84, 84;	
+  --accentcolor:	  237, 174, 192;	
 /*chillax colours hex*/ /* Google RGB Picker: https://g.co/kgs/NoY83h */
-  --accentcolorV2:     #fb5454;
+  --accentcolorV2:     #edaec0;
      
      
 /*settings modal root*/
